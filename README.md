@@ -1,104 +1,105 @@
-# Hi, I'm Mahmoud Osama 👋
-
-**Senior Backend Engineer · PHP / Laravel · SaaS, ERP & POS Systems**
-📍 Alexandria, Egypt · [LinkedIn](https://www.linkedin.com/in/mahmoud-osama-4a7784189/) · [Email](mailto:mahmoud.osama3632@gmail.com)
-
-Backend engineer with **5+ years** designing and scaling production systems: multi-tenant SaaS platforms, cloud POS/ERP, restaurant operations, enterprise finance, HR and eCommerce. I focus on clean architecture, reliable third-party integrations, and systems that stay fast under real business load.
-
-### What I bring
-- 🏗️ **Architecture** – multi-tenant design, modular monoliths (Laravel Modules), service boundaries, design patterns
-- 🔌 **Integrations** – delivery platforms, marketplaces, telecom, messaging and payment gateways
-- ⚡ **Performance** – Redis caching, queues & background jobs, query optimization, production troubleshooting
-- 📊 **Business systems** – inventory, sales, approval workflows, reporting & data export
-- 🤝 **Ownership** – architecture discussions, technical planning, and taking features from design to production
+<h1 align="center">Mahmoud Osama</h1>
+<p align="center"><strong>Senior Backend Engineer</strong> &nbsp;|&nbsp; PHP &amp; Laravel &nbsp;|&nbsp; SaaS · ERP · POS</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-osama-4a7784189/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mahmoud.osama3632@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Location-Alexandria,%20Egypt-555555?style=flat-square" alt="Location">
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-**Languages & Frameworks**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+I am a backend engineer with 5+ years of experience building and scaling production systems for SaaS, enterprise finance, point-of-sale, restaurant operations and eCommerce. My work centers on multi-tenant architecture, third-party integrations and high-volume data processing. I build backends that are maintainable, observable and dependable under real business load.
 
-**Databases & Caching**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+**Core strengths**
 
-**Cloud & Tooling**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-**Integrations:** Salla · The Chefz · Jahez · MrMandoob · STC · Unifonic WhatsApp · Twilio · Payment Gateways
+- **System architecture:** multi-tenant platforms, modular Laravel applications, domain-driven module boundaries, design patterns
+- **Integrations:** delivery platforms, marketplaces, telecom and messaging providers, payment gateways
+- **Performance and reliability:** Redis caching, queue-based processing, query optimization, production incident resolution
+- **Business domains:** inventory, sales, finance, approval workflows, reporting and data export
+- **Engineering ownership:** technical planning, architecture reviews, and delivering features from design to production
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-> Most of my work is commercial and closed-source, so below is what I built and how, not the code itself.
-
-### 💼 Fuel — Enterprise Financial & Business Management Platform
-*Current*
-Enterprise platform for financial and operational management.
-- Build and maintain finance and operations modules and the REST APIs behind business-critical workflows
-- Implement approval processes, validation rules and workflow automation
-- Design reporting and analytics for financial and operational insight
-- Diagnose production issues and optimize database performance
-
-`Laravel` `MySQL` `REST APIs` `Workflow Automation` `Reporting`
-
-### 🍽️ [Blend](https://tryblend.net/) — SaaS for Restaurant Management
-*Current*
-Unifies multiple delivery platforms into one interface so restaurants manage orders, menus, branches and operations from a single place.
-- **Multi-tenant architecture** with Laravel Modules for clean separation and scalability
-- **Delivery integrations** with Jahez, MrMandoob and other external platforms
-- **High-volume processing** with Redis caching, queues and background jobs
-- **Real-time notifications** for operations via Firebase Cloud Messaging
-
-`Laravel` `MySQL` `Redis` `Queues` `Multi-Tenancy` `FCM`
-
-### 🧾 [Prexle](https://prexle.com) — Cloud POS & ERP System
-Cloud point-of-sale and ERP for retail and food businesses.
-- **Multi-tenant** platform built with Laravel Modules, backed by MySQL, MongoDB and Redis
-- Inventory, sales management, and reporting & export systems
-- Integrations with **Salla**, **The Chefz**, **STC**, **Unifonic WhatsApp** and payment gateways
-- Query optimization and background jobs to keep reporting fast at scale
-
-`Laravel` `MySQL` `MongoDB` `Redis` `Multi-Tenancy` `ERP` `POS`
+| Area | Technologies |
+|---|---|
+| **Languages and frameworks** | PHP, Laravel, Laravel Modules |
+| **Databases** | MySQL, MariaDB, MongoDB |
+| **Caching and async** | Redis, queues, background jobs |
+| **APIs** | RESTful API design, third-party API integration |
+| **Cloud and tooling** | AWS, Linux, Git, Firebase Cloud Messaging |
+| **Integrations** | Salla, The Chefz, Jahez, MrMandoob, STC, Unifonic WhatsApp, Twilio, payment gateways |
 
 ---
 
-## 📦 Earlier Work
+## Selected Projects
 
-| Project | What it is | Highlights |
+> My work is commercial and closed-source. The descriptions below cover scope, architecture and my responsibilities.
+
+### Fuel: Enterprise Financial and Business Management Platform
+`Current` · Laravel · MySQL · REST APIs
+
+An enterprise platform for managing financial and operational processes.
+
+- Develop and maintain financial and operational modules, plus the REST APIs behind business-critical workflows
+- Implement multi-step approval processes, validation rules and workflow automation
+- Design reporting and analytics capabilities for financial and operational insight
+- Resolve production issues and tune database performance
+
+### [Blend](https://tryblend.net/): Restaurant Management SaaS
+`Current` · Laravel · MySQL · Redis · Multi-Tenancy · FCM
+
+A SaaS platform that brings multiple delivery channels into one interface. Restaurants use it to manage orders, menus, branches and daily operations centrally.
+
+- Built on a multi-tenant architecture, organized with Laravel Modules for isolation and scalability
+- Integrated external delivery providers, including Jahez and MrMandoob
+- Handle high-volume order processing through Redis caching, queues and background jobs
+- Deliver real-time operational notifications through Firebase Cloud Messaging
+
+### [Prexle](https://prexle.com): Cloud-Based POS and ERP
+Laravel · MySQL · MongoDB · Redis · Multi-Tenancy
+
+A cloud point-of-sale and ERP platform for retail and food-service businesses.
+
+- Developed a multi-tenant, modular backend on MySQL, MongoDB and Redis
+- Built inventory management, sales management, and reporting and export systems
+- Integrated Salla, The Chefz, STC, Unifonic WhatsApp and multiple payment gateways
+- Improved reporting performance through query optimization and asynchronous job processing
+
+---
+
+## Additional Projects
+
+| Project | Description | Key Work |
 |---|---|---|
-| **Hero Meals** | Meal-subscription platform (weekly & monthly plans) | Microservices, payment integration, repository pattern |
-| **Rumple** | Chat recording system (Cloudprimero) | Backend APIs, Firebase notifications |
-| **[Bruxies](https://play.google.com/store/apps/details?id=com.rmztech.bruxies)** | Mobile app backend – full rebuild | Admin dashboard, repository pattern |
-| **[Wuffiq](https://play.google.com/store/apps/details?id=com.amaz.newwuffiq)** | Mobile app backend – full rebuild | Admin dashboard, repository pattern |
-| **Arbana** | eCommerce platform | Payment integration, MVC |
-| **Maxclub** | eCommerce platform | Repository pattern, MVC |
-| **Madark** | Backend platform | Laravel, MySQL, Firebase |
-| **Cammani** | Backend platform | Laravel, MySQL, Firebase |
-| **The League / SteroidPC** | Backend platform | Laravel, MySQL |
+| Hero Meals | Meal subscription platform with weekly and monthly plans | Service-oriented backend, payment integration |
+| Rumple | Chat recording application | Backend APIs, push notifications |
+| [Bruxies](https://play.google.com/store/apps/details?id=com.rmztech.bruxies) | Mobile application backend | Full backend rebuild, admin dashboard |
+| [Wuffiq](https://play.google.com/store/apps/details?id=com.amaz.newwuffiq) | Mobile application backend | Full backend rebuild, admin dashboard |
+| Arbana | eCommerce platform | Payment integration, catalog and order management |
+| Maxclub | eCommerce platform | Backend APIs, admin tooling |
+| Madark | Mobile application backend | REST APIs, push notifications |
+| Cammani | Mobile application backend | REST APIs, push notifications |
+| The League / SteroidPC | Web platform | Backend development, database design |
 
 ---
 
-## 🏢 Experience
+## Professional Experience
 
-- **Prexle** — Backend Developer
-- **RMZTECH** — Backend Developer
-- **Talenta** — Backend Developer
-- **Bdaiat** — Backend Developer
+| Company | Role |
+|---|---|
+| Prexle | Backend Developer |
+| RMZTECH | Backend Developer |
+| Talenta | Backend Developer |
+| Bdaiat | Backend Developer |
 
 ---
 
-## 📫 Let's Talk
+## Contact
 
-Open to **Senior Backend** roles and interesting backend architecture challenges.
-Reach me on [LinkedIn](https://www.linkedin.com/in/mahmoud-osama-4a7784189/) or at **mahmoud.osama3632@gmail.com**.
+I am open to **Senior Backend Engineer** opportunities and to discussions about backend architecture and scalable systems.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Osama-79&show_icons=true&hide_border=true&count_private=true)
+**Email:** mahmoud.osama3632@gmail.com &nbsp;·&nbsp; **LinkedIn:** [mahmoud-osama](https://www.linkedin.com/in/mahmoud-osama-4a7784189/)
