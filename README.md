@@ -39,16 +39,6 @@ I am a backend engineer with 5+ years of experience building and scaling product
 
 > My work is commercial and closed-source. The descriptions below cover scope, architecture and my responsibilities.
 
-### Fuel: Enterprise Financial and Business Management Platform
-`Current` · Laravel · MySQL · REST APIs
-
-An enterprise platform for managing financial and operational processes.
-
-- Develop and maintain financial and operational modules, plus the REST APIs behind business-critical workflows
-- Implement multi-step approval processes, validation rules and workflow automation
-- Design reporting and analytics capabilities for financial and operational insight
-- Resolve production issues and tune database performance
-
 ### [Blend](https://tryblend.net/): Restaurant Management SaaS
 `Current` · Laravel · MySQL · Redis · Multi-Tenancy · FCM
 
@@ -58,6 +48,16 @@ A SaaS platform that brings multiple delivery channels into one interface. Resta
 - Integrated external delivery providers, including Jahez and MrMandoob
 - Handle high-volume order processing through Redis caching, queues and background jobs
 - Deliver real-time operational notifications through Firebase Cloud Messaging
+
+### Fuel: Enterprise Financial and Business Management Platform
+Laravel · MySQL · REST APIs
+
+An enterprise platform for managing financial and operational processes.
+
+- Developed financial and operational modules, plus the REST APIs behind business-critical workflows
+- Implemented multi-step approval processes, validation rules and workflow automation
+- Designed reporting and analytics capabilities for financial and operational insight
+- Resolved production issues and tuned database performance
 
 ### [Prexle](https://prexle.com): Cloud-Based POS and ERP
 Laravel · MySQL · MongoDB · Redis · Multi-Tenancy
